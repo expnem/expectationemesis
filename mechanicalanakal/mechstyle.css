@@ -1,0 +1,54 @@
+body {
+  margin:auto;
+  background-color:black;
+  color:white;
+  width: 400px;
+  font-family: arial;
+  font-size:11px;
+  text-align:center;
+}
+
+a:link {
+  color: #8ADEFF;
+  text-decoration:none;
+}
+
+a:visited {
+  color: #8ADEFF;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #8ADEFF;
+  text-decoration:none;
+}
+
+a:active {
+  color: #8ADEFF;
+  text-decoration:none;
+}
+
+blockquote {
+  margin-top:2;
+  margin-bottom:2;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px dashed white;
+}
+
+break {
+   display: block;
+   margin: 1px 0;
+}
+
+.dreambox{
+  padding:5px;
+  border:1px;
+  border-color:black;
+  border-style:solid;
+  background:black;
+  width: 400px;
+  text-align:left;
+}
